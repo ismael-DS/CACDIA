@@ -12,9 +12,9 @@ Este repositório corresponde ao portal de transparência do Centro Acadêmico d
 
 ## Documentos Importantes
 
-- [Estatuto do Centro Acadêmico de Ciência de Dados e Inteligência Artificial (PDF)](./ESTATUTO%20CENTRO%20ACAD%C3%8AMICO%20DE%20CI%C3%8ANCIA%20DE%20DADOS.pdf)
+- [Estatuto do Centro Acadêmico de Ciência de Dados e Inteligência Artificial (PDF)]([./ESTATUTO%20CENTRO%20ACAD%C3%8AMICO%20DE%20CI%C3%8ANCIA%20DE%20DADOS.pdf](https://github.com/ismael-DS/CACDIA/blob/main/ESTATUTO/ESTATUTO%20CENTRO%20ACAD%C3%8AMICO%20DE%20CI%C3%8ANCIA%20DE%20DADOS.pdf))
   - Estatuto discutido na assembleia geral do dia 31/08/2023 e aprovado via votação no dia 14/09/2023.
 
-- [Assinaturas e Votos - Estatuto CACDIA (PDF)](./Assinaturas_Votos%20Estatuto%20CACDIA%20-%20Respostas%20ao%20formul%C3%A1rio%201.pdf)
+- [Assinaturas e Votos - Estatuto CACDIA (PDF)]([./Assinaturas_Votos%20Estatuto%20CACDIA%20-%20Respostas%20ao%20formul%C3%A1rio%201.pdf](https://github.com/ismael-DS/CACDIA/blob/main/ESTATUTO/Assinaturas_Votos%20Estatuto%20CACDIA%20-%20Respostas%20ao%20formul%C3%A1rio%201.pdf)https://github.com/ismael-DS/CACDIA/blob/main/ESTATUTO/Assinaturas_Votos%20Estatuto%20CACDIA%20-%20Respostas%20ao%20formul%C3%A1rio%201.pdf)
   - Resultados da votação do novo estatuto, com 100% de aprovação por unanimidade.
 
